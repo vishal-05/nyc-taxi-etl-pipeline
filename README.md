@@ -49,7 +49,9 @@ The pipeline culminates in an automated Databricks SQL Dashboard designed for ex
 * **Peak Demand Tracker:** Bar charts highlighting the busiest hours of operation.
 * **Revenue Generation:** Trend lines showing revenue growth over time.
 * **Efficiency Scorecard:** High-level KPIs tracking the average revenue per trip.
-<img width="938" height="729" alt="Screenshot 2026-03-28 1224312345" src="https://github.com/user-attachments/assets/f9ea6c57-19e0-44df-9a12-0a75641e6b68" />
+
+  <img width="786" height="729" alt="Screenshot 2026-03-28 122431" src="https://github.com/user-attachments/assets/b0d5833e-4beb-4412-bee7-27253897938b" />
+
 
 <img width="938" height="729" alt="Screenshot 2026-03-28 1224312345" src="https://github.com/user-attachments/assets/fc257949-ac87-4923-a381-80f8cd5581aa" />
 
